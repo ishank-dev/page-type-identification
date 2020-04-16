@@ -1,0 +1,21 @@
+<root>
+    <PARAGRAPH>
+        <LINE>
+            <WORD coords="30,290,65,276,290">This</WORD>
+            <WORD coords="73,290,84,276,290">is</WORD>
+            <WORD coords="92,290,100,280,290">a</WORD>
+            <WORD coords="105,295,157,276,290">digital</WORD>
+            <WORD coords="163,295,202,280,290">copyright</WORD>
+            <WORD coords="209,290,227,276,290">of</WORD>
+            <WORD coords="232,290,240,280,290">a</WORD>
+            <WORD coords="247,290,287,276,290">book</WORD>
+            <WORD coords="293,290,323,276,290">that</WORD>
+            <WORD coords="330,290,360,280,290">was</WORD>
+            <WORD coords="366,295,445,276,290">preserved</WORD>
+            <WORD coords="453,290,476,276,290">for</WORD>
+            <WORD coords="481,295,576,276,290">generations</WORD>
+            <WORD coords="582,290,602,280,290">on</WORD>
+            <WORD coords="609,295,662,276,290">library</WORD>
+        </LINE>
+    </PARAGRAPH>
+</root>
