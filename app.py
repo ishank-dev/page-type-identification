@@ -1,9 +1,9 @@
 import xml.etree.ElementTree as ET
 tree = ET.parse('djvu.xml')
-# root contains the head tag i.e 
+# root contains the head tag
 root = tree.getroot()
 keyword = "copyright"
-#Iterating over each tag called OBJECT
+#Iterating over each tag called <OBJECT>
 for x in root.iter('OBJECT'):
     # Iterating over each WORD tag to locate the keyword
     for i in x.iter('WORD'):
