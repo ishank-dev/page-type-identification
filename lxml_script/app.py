@@ -10,7 +10,7 @@ for x in tree.iter('OBJECT'):
         if(i.text == keyword):
             '''
                 x[0].attrib['value'] is Descartes-TheGeometry_0273.djvu 
-                splitting twice at '.' and finding the last 4 lettes of the book name in this case it is 0273
+                splitting at '.' and finding the last 4 lettes of the book name in this case it is 0273
             '''
             param = x[0].attrib['value'].split('.')[0] 
             param = param[-4:]
