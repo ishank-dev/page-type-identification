@@ -1,6 +1,6 @@
 from lxml import etree
 parser = etree.XMLParser(recover=True)
-tree = etree.parse('super.xml',parser)
+tree = etree.parse('djvu.xml',parser)
 # search is case sensitive "africa" wont be detected
 keyword = "AFRICA"
 #Iterating over each tag called OBJECT
